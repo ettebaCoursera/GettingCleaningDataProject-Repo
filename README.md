@@ -1,6 +1,6 @@
 In this repo, the run_ analysis.R script is used to perform a cleaning operation on a set of data obtained from the website - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones with the actual data  sets used in the project obtained from - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. The GDCcodebook.md gives a description of the variables in the tidydata set. Thus in order to understand the data in the tidyData frame the codbook haas to be used alongside.
 
-###The code in summary runs as follows:
+###The code in summary runs through these steps:
 1. The zip file for the data was downloaded unto my working directory on my computer.
 2. The downloaded data was viewed and studied to understand the information and the variables involves in the project.
 3. The data were categorisesd into two sets namely the train set and the test sets. These were read into variables.
